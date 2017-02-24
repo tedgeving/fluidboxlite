@@ -10,7 +10,7 @@ Fluidboxlite is a WordPress plugin wrapper for Terry Munn's Fluidbox Plugin (htt
 ## Installation 
 
 1. Download or clone the repository to the plugins directory.
-2. Login to WordPress and Enable the plugin.
+2. Login to WordPress and enable the plugin.
 3. The plugin has no options / settings.  By default it will be enabled for all WordPress galleries and images that have the following structure:
 `<a href="/path/to/image" title="">
     <img src="/path/to/image" alt="" title="" />
